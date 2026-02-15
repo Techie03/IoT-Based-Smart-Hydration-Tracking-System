@@ -479,6 +479,3 @@ TESTING:
 - ESP8266 Community
 
 ---
-
-*Hardware Guide Version 1.0*  
-*Last Updated: February 15, 2026*
