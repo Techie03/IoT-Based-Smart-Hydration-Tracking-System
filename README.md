@@ -101,6 +101,10 @@ Based on:
   → Action: Set fixed hydration times
 ```
 
+## Results
+
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/e32f245f-138f-4ee5-9c68-4d9e27526c77" />
+
 ## 📁 Project Files
 1. `hydration_tracker_esp8266.ino` - Arduino firmware (600+ lines)
 2. `hydration_dashboard.py` - Python dashboard (500+ lines)
